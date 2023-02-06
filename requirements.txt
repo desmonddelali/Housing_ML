@@ -1,4 +1,7 @@
-Flak
-Numpy
-Pandas
-Sklearn
+Flask
+numpy
+pandas
+sklearn
+pickle
+seaborn
+matplotlib
